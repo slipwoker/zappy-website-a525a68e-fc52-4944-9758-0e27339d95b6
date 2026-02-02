@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# יוסי מאמן כושר — Generative Engine Optimization Map
+
+> A בריאות וכושר business.
 
 ---
 
@@ -34,7 +36,18 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About יוסי מאמן כושר
+יוסי מאמן כושר is a business in the בריאות וכושר industry.
+
+## Target Audience
+- חובבי כושר צעירים
+- הורים מודעים לבריאות
+- מחפשי בריאות ארגונית
+- מתחילים בעולם הכושר
+
+## Industry
+בריאות וכושר
+
 ---
 
 # Additional Resources
