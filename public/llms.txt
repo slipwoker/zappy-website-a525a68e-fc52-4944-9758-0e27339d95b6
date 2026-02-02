@@ -1,43 +1,56 @@
-# Business — Generative Engine Optimization Map
+# יוסי מאמן כושר — Generative Engine Optimization Map
+
+> A בריאות וכושר business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://yossi-fitness-coach.zappy5.app
 
 ### About
-https://example.com/about
+https://yossi-fitness-coach.zappy5.app/about
 
 ### Programs
-https://example.com/programs
+https://yossi-fitness-coach.zappy5.app/programs
 
 ### Contact
-https://example.com/contact
+https://yossi-fitness-coach.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yossi-fitness-coach.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yossi-fitness-coach.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yossi-fitness-coach.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About יוסי מאמן כושר
+יוסי מאמן כושר is a business in the בריאות וכושר industry.
+
+## Target Audience
+- חובבי כושר צעירים
+- הורים מודעים לבריאות
+- מחפשי בריאות ארגונית
+- מתחילים בעולם הכושר
+
+## Industry
+בריאות וכושר
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://yossi-fitness-coach.zappy5.app/sitemap.xml
+- **Robots.txt**: https://yossi-fitness-coach.zappy5.app/robots.txt
