@@ -1,0 +1,56 @@
+# יוסי מאמן כושר — Generative Engine Optimization Map
+
+> A בריאות וכושר business.
+
+---
+
+## Pages
+
+### Home
+https://-a525a68e.zappy5.app
+
+### About
+https://-a525a68e.zappy5.app/about
+
+### Programs
+https://-a525a68e.zappy5.app/programs
+
+### Contact
+https://-a525a68e.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a525a68e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a525a68e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a525a68e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יוסי מאמן כושר
+יוסי מאמן כושר is a business in the בריאות וכושר industry.
+
+## Target Audience
+- חובבי כושר צעירים
+- הורים מודעים לבריאות
+- מחפשי בריאות ארגונית
+- מתחילים בעולם הכושר
+
+## Industry
+בריאות וכושר
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a525a68e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a525a68e.zappy5.app/robots.txt
